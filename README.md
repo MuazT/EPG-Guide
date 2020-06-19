@@ -9,11 +9,4 @@ Links:
 
 Arabic EPG: https://raw.githubusercontent.com/MuazT/EPG-Guide/master/ArabicEPG.xml
 
-Turkish EPG: 
-
-
-Supported Arabic Channels:
-
-- 
-
-Supported Turkish Channels:
+Turkish EPG: https://raw.githubusercontent.com/MuazT/EPG-Guide/master/TurkishEPG.xml
