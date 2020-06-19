@@ -6,7 +6,9 @@ All the Channels is added according to the project https://github.com/iptv-org/i
 any channel which doesn't excist in the project will not be added to EPG Listing.
 
 Links:
-Arabic EPG: 
+
+Arabic EPG: https://raw.githubusercontent.com/MuazT/EPG-Guide/master/ArabicEPG.xml
+
 Turkish EPG: 
 
 
